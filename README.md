@@ -1,1 +1,0 @@
-# D-Translate-Bot-webhook
